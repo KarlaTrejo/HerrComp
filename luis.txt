@@ -1,0 +1,4 @@
+Lo que más se me complico en este bloque fue... Tratar de entender Java al comienzo
+Lo que más me gusto fue... armar un poco de los códigos del videojuego (especialmente romper la caja 
+For(int i=0;i<20;i++)
+   cout<< "hola"<< endl;
